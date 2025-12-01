@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhashree34-git/WEATHER-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhashree34-git/WEATHER-APP/issues"
+  },
+  "homepage": "https://github.com/subhashree34-git/WEATHER-APP#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.17"
+  }
+}
