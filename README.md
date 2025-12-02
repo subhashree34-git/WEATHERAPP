@@ -7,13 +7,13 @@ It fetches real-time weather data using the *OpenWeatherMap API* and displays te
 
 ---
 
-### 🚀 Features of this Project
+###  Features of this Project
 
-1. Search weather by city name 🌍  
-2. Displays temperature, humidity, wind speed, and weather icons 🌡  
-3. Shows current date and time 🕒  
-4. Responsive design – works on mobile and desktop 📱💻  
-5. User-friendly interface 🎨  
+1. Search weather by city name 
+2. Displays temperature, humidity, wind speed, and weather icons  
+3. Shows current date and time 
+4. Responsive design – works on mobile and desktop  
+5. User-friendly interface 
 
 ---
 
@@ -22,6 +22,7 @@ It fetches real-time weather data using the *OpenWeatherMap API* and displays te
 - *Frontend:* HTML, CSS, JavaScript  
 - *API:* OpenWeatherMap API  
 - *Deployment:* GitHub Pages   
+
 
 
 
